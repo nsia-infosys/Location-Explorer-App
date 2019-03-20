@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OfflineMaps</string>
+    <string name="title_activity_download_offline_map">DownloadOfflineMap</string>
+</resources>
