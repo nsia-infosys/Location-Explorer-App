@@ -19,7 +19,7 @@ public class MapBoxActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_map_box);
 
-        Mapbox.getInstance(this,"sk.eyJ1IjoiYmFoaXJiYXJhayIsImEiOiJjanJweWxwbm8wYTNiM3ltcjVkYmx3YWE4In0.xK0aLiiTkkLbS5Io4MnpcQ");
+        Mapbox.getInstance(this,"");
 
         mMapView = findViewById(R.id.mapview_mapbox);
         mMapView.onCreate(savedInstanceState);
